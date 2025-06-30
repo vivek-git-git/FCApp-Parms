@@ -1,1 +1,1 @@
-{'version': 1.0, 'installer': 'google.com', 'manual': 'youtube.com'}
+parms = {'version': 1.0, 'installer': 'google.com', 'manual': 'youtube.com'}
